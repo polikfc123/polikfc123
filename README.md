@@ -39,9 +39,9 @@
 
   ![i7-13th-gen](https://img.shields.io/badge/Intel-Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
   ![RTX-4070](https://img.shields.io/badge/NVIDIA-RTX_4070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![CachyOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+  ![EndeavourOS](https://img.shields.io/badge/CachyOS-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
   ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1C99D4?style=for-the-badge&logo=kde&logoColor=white)
-  ![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+  ![vs-codium](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
   ![Creality Ender 3 Pro](https://img.shields.io/badge/-Ender%203%20Pro-000000?style=for-the-badge&logo=creality)
 
 ## Links
