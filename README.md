@@ -2,12 +2,7 @@
 
 ## About Me
 
-  I love reading books on finances and business principles, along with other types of informational texts.  
-
-  Outside tech, I love working with electric principles and 3D printing, along with studying mathematics. 
-
-  I was the captain of VRC team 33172F for the 2024-25 "High Stakes" season
-  Currently Co-Captain for the team 33172X.
+I’m a passionate developer and mechanical-engineering aspirant focused on building systems that bridge hardware and software. My interests span embedded systems, robotics, 3D printing, and full-stack web apps. I led VRC Team 33172F during the 2024-25 “High Stakes” season and now co-lead Team 33172X. I’m trilingual, and I continuously explore mathematics, electronics, and open-source software.
 
 ## How I Communicate- 
 
